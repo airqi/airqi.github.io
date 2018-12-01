@@ -5,9 +5,9 @@
   <subtitle>Tomorrow is another day</subtitle>
   <link href="/blogtest/atom.xml" rel="self"/>
   
-  <link href="https://airqi.github.io/"/>
+  <link href="https://airqi.github.io/blogtest/"/>
   <updated>2018-11-28T18:17:17.812Z</updated>
-  <id>https://airqi.github.io/</id>
+  <id>https://airqi.github.io/blogtest/</id>
   
   <author>
     <name>airqi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://airqi.github.io/2018/11/29/hello-world/"/>
-    <id>https://airqi.github.io/2018/11/29/hello-world/</id>
+    <link href="https://airqi.github.io/blogtest/2018/11/29/hello-world/"/>
+    <id>https://airqi.github.io/blogtest/2018/11/29/hello-world/</id>
     <published>2018-11-28T18:17:17.812Z</published>
     <updated>2018-11-28T18:17:17.812Z</updated>
     
