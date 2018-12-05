@@ -6,7 +6,7 @@
   <link href="/airqi.github.io/atom.xml" rel="self"/>
   
   <link href="git@github.com:airqi/airqi.github.io/"/>
-  <updated>2018-12-02T10:52:59.218Z</updated>
+  <updated>2018-12-05T04:45:22.626Z</updated>
   <id>git@github.com:airqi/airqi.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我是谁</title>
+    <link href="git@github.com:airqi/airqi.github.io/2018/12/05/%E6%88%91%E6%98%AF%E8%B0%81/"/>
+    <id>git@github.com:airqi/airqi.github.io/2018/12/05/我是谁/</id>
+    <published>2018-12-05T02:58:52.000Z</published>
+    <updated>2018-12-05T04:45:22.626Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我是谁"><a href="#我是谁" class="headerlink" title="我是谁"></a>我是谁</h1><h2 id="我是旺旺小小酥"><a href="#我是旺旺小小酥" class="headerlink" title="我是旺旺小小酥"></a>我是旺旺小小酥</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;我是谁&quot;&gt;&lt;a href=&quot;#我是谁&quot; class=&quot;headerlink&quot; title=&quot;我是谁&quot;&gt;&lt;/a&gt;我是谁&lt;/h1&gt;&lt;h2 id=&quot;我是旺旺小小酥&quot;&gt;&lt;a href=&quot;#我是旺旺小小酥&quot; class=&quot;headerlink&quot; title=&quot;我是旺旺小小酥
+      
+    
+    </summary>
+    
+      <category term="分享" scheme="git@github.com:airqi/airqi.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="导航" scheme="git@github.com:airqi/airqi.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+      <category term="分享" scheme="git@github.com:airqi/airqi.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
